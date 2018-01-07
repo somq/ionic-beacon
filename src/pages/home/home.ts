@@ -25,8 +25,6 @@ export class HomePage {
 
     });
     this.initPeripheral()
-    this.initPeripheral()
-    this.initPeripheral()
 
       // this.ble.initialize().then(ble => {
       //   console.log('ble', ble.status) // logs 'enabled'
